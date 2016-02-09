@@ -1,0 +1,1 @@
+# elasticbeats.filebeat.config.init

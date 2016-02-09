@@ -1,0 +1,5 @@
+# pillar.example
+elasticbeats:
+  filebeat:
+    prospects:
+      - bla
